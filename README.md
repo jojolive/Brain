@@ -1,3 +1,3 @@
 # Brain
 MC
-print('Hello Bozo')
+this is the GOTO
